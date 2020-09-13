@@ -1,0 +1,30 @@
+div{
+  text-align: center;
+}
+nav {
+  background-color: orange;
+  height: 80px;
+  border-style: groove;
+}
+h1 {
+  color: white !important;
+  padding:10px;
+}
+
+img {
+  height: 300px;
+  widows: 300px;
+  border-radius: 10px;
+}
+
+p {
+  font-weight: bold;
+}
+
+.footer {
+  background-color: black;
+  color:white;
+  height: 60px; 
+  text-align:center;
+  padding:15px;
+}
